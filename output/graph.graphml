@@ -1,0 +1,326 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="JOHNNY" />
+    <node id="RALFI FACE" />
+    <node id="THE DROME" />
+    <node id="CHRISTIAN WHITE" />
+    <node id="ATYAN REGGAE BAND" />
+    <node id="MAGNETIC DOG SISTERS" />
+    <node id="UNDER THE KNIFE" />
+    <node id="SONY MAO" />
+    <node id="EDWARD BAX" />
+    <node id="FAST EDDIE BAX" />
+    <node id="LEWIS" />
+    <node id="THE CONTRACT ON JOHNNY" />
+    <node id="THE NEGOTIATION BETWEEN JOHNNY AND RALFI FACE" />
+    <node id="THE PREPARATION OF THE SHOTGUN" />
+    <node id="THE MEETING ARRANGED AS EDWARD BAX" />
+    <node id="RALFI" />
+    <node id="MOLLY MILLIONS" />
+    <node id="YAKUZA" />
+    <node id="SONS OF THE NEON CHRYSANTHEMUM" />
+    <node id="SQUIDS" />
+    <node id="YAKUZA PROPERTY CONFLICT" />
+    <node id="NEGOTIATION WITH MOLLY MILLIONS" />
+    <node id="CONFRONTATION BETWEEN LEWIS AND MOLLY MILLIONS" />
+    <node id="CHIBA CITY" />
+    <node id="ONO-SENDAI" />
+    <node id="RALFI'S DEATH" />
+    <node id="MOLLY REVEALS CONCEALED WEAPONS" />
+    <node id="DROME" />
+    <node id="MOLLY" />
+    <node id="JONES" />
+    <node id="NIGHTTOWN" />
+    <node id="THE PIT" />
+    <node id="FUNLAND" />
+    <node id="LO TEKS" />
+    <node id="NAVY" />
+    <node id="DATA RETRIEVAL OPERATION" />
+    <node id="YAKUZA'S ABSORPTION OF TRIADS, MAFIA, UNION CORSE" />
+    <node id="THE PIRATE" />
+    <node id="ARYAN REGGAE BAND" />
+    <node id="LO TEK" />
+    <node id="THE NAVY" />
+    <node id="THE MALL" />
+    <node id="DOG" />
+    <node id="BEIJING CIGARETTE FACTORY" />
+    <node id="DOPERMANS" />
+    <node id="POLICE" />
+    <node id="KILLING FLOOR" />
+    <node id="EDDIE BAX" />
+    <node id="PROGRAMM" />
+    <node id="SYDNEY" />
+    <node id="KILLING FLOOR EVENT" />
+    <node id="LO TEK HEAVEN" />
+    <node id="SYDNEY CENTRAL-5" />
+    <node id="YAKUZA'S PROGRAM" />
+    <edge source="JOHNNY" target="RALFI FACE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JOHNNY" target="THE DROME">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOHNNY" target="MAGNETIC DOG SISTERS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="JOHNNY" target="EDWARD BAX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOHNNY" target="FAST EDDIE BAX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOHNNY" target="THE CONTRACT ON JOHNNY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOHNNY" target="THE NEGOTIATION BETWEEN JOHNNY AND RALFI FACE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JOHNNY" target="THE PREPARATION OF THE SHOTGUN">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="JOHNNY" target="THE MEETING ARRANGED AS EDWARD BAX">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JOHNNY" target="YAKUZA">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JOHNNY" target="YAKUZA PROPERTY CONFLICT">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JOHNNY" target="MOLLY MILLIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="JOHNNY" target="RALFI'S DEATH">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="JOHNNY" target="MOLLY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RALFI FACE" target="CHRISTIAN WHITE">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RALFI FACE" target="LEWIS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="RALFI FACE" target="THE CONTRACT ON JOHNNY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="RALFI FACE" target="THE NEGOTIATION BETWEEN JOHNNY AND RALFI FACE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RALFI FACE" target="MOLLY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="THE DROME" target="MAGNETIC DOG SISTERS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THE DROME" target="THE NEGOTIATION BETWEEN JOHNNY AND RALFI FACE">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHRISTIAN WHITE" target="ATYAN REGGAE BAND">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CHRISTIAN WHITE" target="ARYAN REGGAE BAND">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MAGNETIC DOG SISTERS" target="MOLLY MILLIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="UNDER THE KNIFE" target="SONY MAO">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="EDWARD BAX" target="THE MEETING ARRANGED AS EDWARD BAX">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="LEWIS" target="RALFI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LEWIS" target="MOLLY MILLIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="LEWIS" target="CONFRONTATION BETWEEN LEWIS AND MOLLY MILLIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RALFI" target="MOLLY MILLIONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="RALFI" target="NEGOTIATION WITH MOLLY MILLIONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="RALFI" target="YAKUZA">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="RALFI" target="RALFI'S DEATH">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="RALFI" target="POLICE">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="SONS OF THE NEON CHRYSANTHEMUM">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="NEGOTIATION WITH MOLLY MILLIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="CONFRONTATION BETWEEN LEWIS AND MOLLY MILLIONS">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="RALFI'S DEATH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="MOLLY REVEALS CONCEALED WEAPONS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="KILLING FLOOR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="DOG">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="KILLING FLOOR EVENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="MOLLY">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="DROME">
+      <data key="d0">13.0</data>
+    </edge>
+    <edge source="MOLLY MILLIONS" target="JONES">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="YAKUZA" target="SONS OF THE NEON CHRYSANTHEMUM">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="YAKUZA" target="SQUIDS">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="YAKUZA" target="YAKUZA PROPERTY CONFLICT">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="YAKUZA" target="CHIBA CITY">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="YAKUZA" target="ONO-SENDAI">
+      <data key="d0">19.0</data>
+    </edge>
+    <edge source="YAKUZA" target="YAKUZA'S ABSORPTION OF TRIADS, MAFIA, UNION CORSE">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="YAKUZA" target="PROGRAMM">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="YAKUZA" target="EDDIE BAX">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="YAKUZA" target="YAKUZA'S PROGRAM">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SONS OF THE NEON CHRYSANTHEMUM" target="YAKUZA PROPERTY CONFLICT">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="SQUIDS" target="NAVY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NEGOTIATION WITH MOLLY MILLIONS" target="CONFRONTATION BETWEEN LEWIS AND MOLLY MILLIONS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="ONO-SENDAI" target="PROGRAMM">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="RALFI'S DEATH" target="DROME">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="DROME" target="POLICE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOLLY" target="JONES">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="MOLLY" target="DATA RETRIEVAL OPERATION">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOLLY" target="THE PIRATE">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="MOLLY" target="THE NAVY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="MOLLY" target="LO TEK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="MOLLY" target="DOG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MOLLY" target="KILLING FLOOR">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="MOLLY" target="LO TEKS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JONES" target="FUNLAND">
+      <data key="d0">22.0</data>
+    </edge>
+    <edge source="JONES" target="THE NAVY">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="THE PIT">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="LO TEKS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="LO TEK">
+      <data key="d0">2.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="THE MALL">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="EDDIE BAX">
+      <data key="d0">4.0</data>
+    </edge>
+    <edge source="NIGHTTOWN" target="KILLING FLOOR">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="LO TEKS" target="KILLING FLOOR">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THE PIRATE" target="THE NAVY">
+      <data key="d0">3.0</data>
+    </edge>
+    <edge source="LO TEK" target="DOG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LO TEK" target="BEIJING CIGARETTE FACTORY">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LO TEK" target="DOPERMANS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="LO TEK" target="KILLING FLOOR">
+      <data key="d0">14.0</data>
+    </edge>
+    <edge source="LO TEK" target="KILLING FLOOR EVENT">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LO TEK" target="LO TEK HEAVEN">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="DOG" target="KILLING FLOOR EVENT">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="KILLING FLOOR" target="EDDIE BAX">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="KILLING FLOOR" target="SYDNEY CENTRAL-5">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="EDDIE BAX" target="KILLING FLOOR EVENT">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="PROGRAMM" target="SYDNEY">
+      <data key="d0">12.0</data>
+    </edge>
+  </graph>
+</graphml>

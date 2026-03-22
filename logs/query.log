@@ -1,0 +1,68 @@
+2026-03-22 12:26:47.0183 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for ollama/qwen3:14b: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 111.20738935470581,
+  "compute_duration_per_response_seconds": 55.603694677352905,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 14338,
+  "completion_tokens": 2089,
+  "total_tokens": 16427,
+  "tokens_per_response": 8213.5,
+  "cost_per_response": 0.0
+}
+2026-03-22 12:28:30.0914 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/user-bge-m3: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 2.44683575630188,
+  "compute_duration_per_response_seconds": 2.44683575630188,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-22 12:28:30.0924 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for ollama/qwen3:14b: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-22 12:33:30.0767 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for ollama/qwen3:14b: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 107.18077230453491,
+  "compute_duration_per_response_seconds": 53.590386152267456,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 14340,
+  "completion_tokens": 2008,
+  "total_tokens": 16348,
+  "tokens_per_response": 8174.0,
+  "cost_per_response": 0.0
+}
